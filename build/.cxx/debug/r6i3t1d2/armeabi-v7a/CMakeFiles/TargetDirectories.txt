@@ -1,0 +1,2 @@
+C:/Users/asus/Downloads/dec/MindMetric---UI-main/build/.cxx/debug/r6i3t1d2/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/asus/Downloads/dec/MindMetric---UI-main/build/.cxx/debug/r6i3t1d2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
